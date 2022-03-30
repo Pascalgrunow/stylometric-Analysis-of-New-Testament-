@@ -3,6 +3,6 @@ stylometric Analysis of new testament by Christian Seiler, Hannah Schulz and Pas
 
 Unser Projekt ist in mehrere Branchen aufgeteilt, damit sie schneller alles finden. 
 
-In der "Alle Dateien" Branche finden sie alle Dateien die unser Projekt umfasst. 
+In der "Alle Dateien" Branche finden sie alle Dateien die unser Projekt umfasst. (In der zip Datei finden sie alles was wir gemacht und genutzt haben als einzelne Dateien) 
 In der "Projekt Code" Branche finden sie nur den Code von R Studio.
 In der "Projektbericht" Branche finden sie unsere ausgearbeite Projektarbeit. (Also unsere Analyse, Vorgehen etc.) 
